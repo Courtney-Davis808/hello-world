@@ -1,2 +1,3 @@
 # hello-world
 Intro to GitHub
+I'm trying to figure out what went wrong with my mis potfolio by re tracing my steps. Here we go...
